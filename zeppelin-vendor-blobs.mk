@@ -41,25 +41,18 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/zeppelin/proprietary/libaudioeq.so:/system/lib/libaudioeq.so \
     vendor/motorola/zeppelin/proprietary/AudioFilter.csv:/system/etc/AudioFilter.csv \
     vendor/motorola/zeppelin/proprietary/AudioPara4.csv:/system/etc/AudioPara4.csv \
-    vendor/motorola/zeppelin/proprietary/libomx_sharedlibrary_qc.so:/system/lib/libomx_sharedlibrary_qc.so \
-    vendor/motorola/zeppelin/proprietary/libomx_wmadec_sharedlibrary.so:/system/lib/libomx_wmadec_sharedlibrary.so \
-    vendor/motorola/zeppelin/proprietary/libomx_wmvdec_sharedlibrary.so:/system/lib/libomx_wmvdec_sharedlibrary.so \
     vendor/motorola/zeppelin/proprietary/libOmxH264Dec.so:/system/lib/libOmxH264Dec.so \
     vendor/motorola/zeppelin/proprietary/libOmxMpeg4Dec.so:/system/lib/libOmxMpeg4Dec.so \
     vendor/motorola/zeppelin/proprietary/libOmxMp3Dec.so:/system/lib/libOmxMp3Dec.so \
     vendor/motorola/zeppelin/proprietary/libOmxVidEnc.so:/system/lib/libOmxVidEnc.so \
     vendor/motorola/zeppelin/proprietary/libmm-adspsvc.so:/system/lib/libmm-adspsvc.so \
-    vendor/motorola/zeppelin/proprietary/libopencore_motlocal.so:/system/lib/libopencore_motlocal.so \
-    vendor/motorola/zeppelin/proprietary/libopencore_motlocalreg.so:/system/lib/libopencore_motlocalreg.so \
     vendor/motorola/zeppelin/proprietary/libspeech.so:/system/lib/libspeech.so \
     vendor/motorola/zeppelin/proprietary/akmd2:/system/bin/akmd2 \
     vendor/motorola/zeppelin/proprietary/bthelp:/system/bin/bthelp \
     vendor/motorola/zeppelin/proprietary/tcmd_engine:/system/bin/tcmd_engine \
     vendor/motorola/zeppelin/proprietary/tcmd_sql:/system/bin/tcmd_sql \
-    vendor/motorola/zeppelin/proprietary/01_pvplayer_mot.cfg:/system/etc/01_pvplayer_mot.cfg \
     vendor/motorola/zeppelin/proprietary/nvram.txt:/system/etc/wifi/nvram.txt \
     vendor/motorola/zeppelin/proprietary/sdio-g-cdc-reclaim-wme.bin:/system/etc/wifi/sdio-g-cdc-reclaim-wme.bin \
-    vendor/motorola/zeppelin/proprietary/pvplayer_mot.cfg:/system/etc/pvplayer_mot.cfg \
     vendor/motorola/zeppelin/proprietary/adp5588_zeppelin.kcm.bin:/system/usr/keychars/adp5588_zeppelin.kcm.bin \
     vendor/motorola/zeppelin/proprietary/headset.kcm.bin:/system/usr/keychars/headset.kcm.bin \
     vendor/motorola/zeppelin/proprietary/adp5588_zeppelin.kl:/system/usr/keylayout/adp5588_zeppelin.kl \
