@@ -46,6 +46,14 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/zeppelin/proprietary/libOmxMp3Dec.so:/system/lib/libOmxMp3Dec.so \
     vendor/motorola/zeppelin/proprietary/libOmxVidEnc.so:/system/lib/libOmxVidEnc.so \
     vendor/motorola/zeppelin/proprietary/libmm-adspsvc.so:/system/lib/libmm-adspsvc.so \
+    vendor/motorola/zeppelin/proprietary/01_pvplayer_mot.cfg:/system/etc/01_pvplayer_mot.cfg \
+    vendor/motorola/zeppelin/proprietary/pvplayer_mot.cfg:/system/etc/pvplayer_mot.cfg \
+    vendor/motorola/zeppelin/proprietary/libomx_sharedlibrary_qc.so:/system/lib/libomx_sharedlibrary_qc.so \
+    vendor/motorola/zeppelin/proprietary/libomx_wmadec_sharedlibrary.so:/system/lib/libomx_wmadec_sharedlibrary.so \
+    vendor/motorola/zeppelin/proprietary/libomx_wmvdec_sharedlibrary.so:/system/lib/libomx_wmvdec_sharedlibrary.so \
+    vendor/motorola/zeppelin/proprietary/libopencore_motlocal.so:/system/lib/libopencore_motlocal.so \
+    vendor/motorola/zeppelin/proprietary/libopencore_motlocalreg.so:/system/lib/libopencore_motlocalreg.so \
+    vendor/motorola/zeppelin/proprietary/libopencore_motoma1.so:/system/lib/libopencore_motoma1.so \
     vendor/motorola/zeppelin/proprietary/libspeech.so:/system/lib/libspeech.so \
     vendor/motorola/zeppelin/proprietary/akmd2:/system/bin/akmd2 \
     vendor/motorola/zeppelin/proprietary/bthelp:/system/bin/bthelp \
@@ -67,6 +75,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/zeppelin/proprietary/bt_downloader:/system/bin/bt_downloader \
     vendor/motorola/zeppelin/proprietary/bt_init:/system/bin/bt_init \
     vendor/motorola/zeppelin/proprietary/bt_init.config:/system/etc/bt_init.config \
-    vendor/motorola/zeppelin/proprietary/charge_only_mode:root/sbin/charge_only_mode \
     vendor/motorola/zeppelin/proprietary/0001.dffs:/system/etc/fuel_gauge/0001.dffs \
     vendor/motorola/zeppelin/proprietary/0301.bqfs:/system/etc/fuel_gauge/0301.bqfs
